@@ -9,8 +9,6 @@ Building tailored AI solutions that bridge the gap between research and producti
 
 I hold a diploma in Artificial Intelligence and bring a strong foundation in software engineering to every project I undertake. My development philosophy centers on clean architecture, testable code, and production-ready ML systems rather than experimental notebooks.
 
-I am currently building my professional portfolio website—an interactive showcase of AI demos including language detection, anime character generation, and voice cloning for French and English speech synthesis. This work reflects my belief that AI tools should be immediately useful, accessible, and engaging.
-
 Beyond code, I am an avid reader, a swimmer, and a dedicated follower of anime and series. My watchlist includes Pantheon, Jujutsu Kaisen, Solo Leveling, Kaiju No. 8, Attack on Titan, The Flash, Mr. Robot, Startup, Scorpion, Manifest, and The Blacklist. These narratives inform my approach to problem-solving: complex systems, layered characters, and elegant resolutions.
 
 
